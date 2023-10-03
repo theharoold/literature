@@ -4,12 +4,14 @@
                     Veljko Lončarević, 22
                 </h1>
                 <p id="zvanje">
-                    Information Technologies Student
+                    Machine Learning Developer
                 </p>
                 <p id="opis">
-                    Senior year student of Information Technologies at the Faculty of Technical Sciences in Čačak, University of Kragujevac.
-                    Completed a three month internship for a Golang backend developer. Certified in Artificial Intelligence & Oracle Databases.
-                    Possesing knowledge in Back-end (REST API, Databases, HTTP, ...), Front-end (HTML, CSS, JavaScript) technologies, Chip Verification (Systemverilog, UVM), Operating Systems (Windows, Linux, MacOS), and much more. 
+                    BSc in Information Technology @ University of Kragujevac. 
+                    Certified in Machine Learning, Artificial Intelligence, and Oracle Databases. 
+                    Working as a Machine Learning Developer for Brezna and Avnet. 
+                    Finished an internship for a Back end developer. 
+                    Worked as a Student Assistant @ Faculty of Technical Sciences in Čačak. 
                 </p>
             </div>
             <div>
