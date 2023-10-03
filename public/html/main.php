@@ -1,10 +1,15 @@
+<?php 
+if (isset($_GET["id"])) {
+    $work = $w->getWork($_GET["id"]);
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Veljko Lončarević | Resume</title>
+    <title>Veljko Lončarević | <?= (isset($_GET["id"]) ? $work["title"] : "Literature"); ?></title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="public/styles/style.css"/>
 
@@ -23,7 +28,6 @@
         <main class="content">
             <?php 
             if (isset($_GET["id"])) {
-                $work = $w->getWork($_GET["id"]);
                 require_once("public/html/work.php");
             } else {
                 require_once("public/html/list.php");
