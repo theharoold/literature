@@ -1,7 +1,7 @@
         <header class="header">
             <div id="ime">
                 <h1>
-                    Veljko Lončarević, 22
+                    Veljko Lončarević, 23
                 </h1>
                 <p id="zvanje">
                     Data Scientist
