@@ -3,6 +3,6 @@
                 <a href="https://www.veljkoloncarevic.in.rs">
                     www.veljkoloncarevic.in.rs
                 </a>
-                | Čačak, 2023
+                | Čačak, 2024
             </p>
         </footer>

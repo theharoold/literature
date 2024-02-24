@@ -7,7 +7,14 @@
                     Data Scientist
                 </p>
                 <p id="opis">
-                    Master's student of Information Technology, BSc in Information Technology @ University of Kragujevac. Certified in Machine Learning, Artificial Intelligence, and Oracle Databases. Working as a Data Scientist for Brezna and Avnet. Finished an internship for a Back end developer. Worked as a Student Assistant @ Faculty of Technical Sciences in Čačak. 
+                    Master's student specializing in Information Technology at University of Kragujevac. 
+                    Working as a Data Scientist in the Business Intelligence Department for Brezna and Avnet EMEA. 
+                    Certified in Machine Learning, Artificial Intelligence, and Databases by Microsoft, Oracle, Huawei, IBM, 
+                    Deeplearning.AI. Finished an internship for a Back-end developer. 
+                    <br><br>
+                    Held a tenure as a Student Assistant at the Faculty of Technical Sciences in Čačak. Currently engaged in cutting-edge 
+                    research within the field of Artificial Intelligence, driving innovation and advancing knowledge in this dynamic domain. 
+                    Passionate about leveraging technology to solve complex challenges and drive organizational success.    
                 </p>
             </div>
             <div>
