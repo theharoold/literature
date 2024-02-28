@@ -12,6 +12,10 @@
                 </a>
             </div>
             <div>
+                <i class="fa fa-map-marker"></i>
+                Čačak, Serbia
+            </div>
+            <div>
                 <i class="fa fa-github"></i>
                 <a href="https://github.com/theharoold">
                     @theharoold
